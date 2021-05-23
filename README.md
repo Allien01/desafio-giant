@@ -1,7 +1,7 @@
 ## Desafio Giant Steps
 Resolução do desafio ``` software-eng-001 ```
 
-##Instruções
+## Instruções
 O repositório possui dois directórios. Cada directório possui:
 - Código
 - Diferentes arquivo ``` gotham_op.txt  ``` disponibilizado
