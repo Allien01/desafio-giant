@@ -3,7 +3,7 @@ Resolução do desafio ``` software-eng-001 ```
 
 ## Instruções
 O repositório possui dois directórios. Cada directório possui:
-- Código
+- Código(ambos possuem o mesmo)
 - Diferentes arquivo ``` gotham_op.txt  ``` disponibilizado
 - A execução dos testes
 
